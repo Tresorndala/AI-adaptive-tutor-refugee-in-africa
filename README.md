@@ -1,6 +1,8 @@
 # AI-adaptive-tutor-refugee-in-africa
 https://www.figma.com/proto/Te4aJstZ2VWX0SjWhISblg/Ai-Tutor-Prototype?node-id=39-2
 
+https://huggingface.co/danrdoran
+
 
 Espoir was a young man from South Sudan, whose family fled to the Kakuma refugee camp in Kenya when he was just a child. Life in Kakuma was a test of endurance, a constant battle to survive. Espoir had once attended school back in South Sudan, but the war disrupted everything. His education, his future—everything was uncertain. In Kakuma, education was both a lifeline and a distant dream. Schools were overcrowded, and resources were scarce.
 
